@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX Designing & Frontend Development
 - 🌱 I’m currently learning ReactJS & React Native
 - 💞️ I’m looking to collaborate on Designer/ Developers
-- 📫 How to reach me - WhatApp : 9698392035
+- 📫 How to reach me - WhatsApp : 9698392035
 
 
 <!---
